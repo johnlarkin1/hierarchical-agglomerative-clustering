@@ -1,0 +1,201 @@
+store_record_id,retailer_id,retailer_nm,store_id,store_address_1,store_address_2,store_city,store_state,store_zip_code,store_county,vpid,retailer_nm_modified
+1,533,Target,28,mcmheyxuzfovcql,autqtndfoyyecbj,tcdudtzhgx,IL,44501,County134,24973,Targethz
+2,315,Trader Joes,15,ivfptxahtmubhmt,khhsyjynsibbqgk,gppmvugarh,FL,51787,County118,35522,Trader Joes95
+3,419,Walgreens,52,jthinnvoqqcnipl,forpgfpudtzyigo,myrifsmupn,TX,30360,County75,55924,qqWalgreens
+4,660,Walmart,94,zmnrqzbqgfnlimd,mywwxeacltlzfyy,cshuzhvsxk,TX,81614,County41,94793,W a lmxar tx
+5,848,Walmart,73,xhqrqrxmfuttvdz,tjvjgxxbhjkqxtt,lawdheatds,NY,85199,County9,42378,Walmarten
+6,912,Best Buy,88,sdhpkjqdppemjlt,yproqhwpvatfnun,xiviehoifx,CA,67606,County124,40660,Best Buyfdf
+7,752,Whole Foods,13,srlimmrwrgoizok,hardglbudsvaeww,cxygpjwlrb,NY,40502,County101,34246,Whole Foodsyjjq
+8,532,Best Buy,96,ovbtnnrksidiihv,kcnguzspqxhwufz,xtaiwjiqya,FL,54283,County70,65235,Best Buytk
+9,934,Home Depot,66,krnmvrmbybauurn,sjtzzslqoutgyhj,vawjgxzacw,OH,13184,County44,24976,Ho mxe De p o t 
+10,330,Walgreens,46,nnyvtcrdkdqkrnv,bafiubilaadvsqd,ttmmqtlbyy,NY,56974,County57,84249,W axlxg re exnxs 
+11,669,Home Depot,92,uzisnqtugzabtie,owohsbcqqehyglz,wmqbiueqeu,PA,34888,County85,71765,Home Depotzl
+12,481,Petco,26,mpevhuqnberrhsh,vzuqtprfgdcwxwv,oczyiyiyqe,IL,74856,County68,96673,P e txco 
+13,101,Trader Joes,5,xihqskglcumfqlh,jedjjqftjtjpmyt,lzwmcqdcyq,TX,33198,County70,86717,taaraaaaadaaEaaraa aajaaOaaEaaS
+14,471,Walgreens,24,qrhfixrwpzvmees,jiptnjgkchrcvil,cprzalpwqk,CA,11498,County61,25262,Walgreens41
+15,694,CVS,67,aunyqwmbkznxrrm,jugzvownmaaccvr,osqvuyltvp,FL,35318,County31,10595,C V S 
+16,605,Best Buy,80,jsxfjmyfgrjnisr,tulmmbgcposssqt,bkqrgfshql,NY,91110,County36,43686,BaaeaasaaTaa aabaauaaY
+17,991,Petco,70,dejbanhqgpjtyxr,ulquijqfrogvjdd,dlnckeegff,CA,42379,County50,76045,Petco53
+18,379,CVS,74,jkxfqczsfvmnpem,txhcuolmrusttie,vfdrgbfajm,PA,45024,County133,41628,CVS55
+19,937,Target,83,zivzruwlhfrkdcp,vzdmbyixhvbfytg,zwfodiptch,NY,29537,County110,61974,taaaaaRaaGaaEaat
+20,966,Trader Joes,64,lxjxsfhgwfqnjds,shdxwurrxbdlhmy,fikirjsfwu,PA,56350,County64,22260,ggTrader Joes
+21,159,Home Depot,58,seuackmvgilbnpj,pqauystzflviekf,ohetedelfa,TX,55896,County52,91522,rrHome Depot
+22,401,Walgreens,52,rmcrtgowcyvjeaz,avxmrgqhadmjhkd,pvpjinylaf,OH,43657,County16,36692,waaAaaLaaGaaRaaEaaeaanaaS
+23,159,Home Depot,36,ltkkqiibwciqhwb,ajnugkbskpnsiji,crrszmnhxb,OH,35182,County82,29030,Hxoxmex  Dxexpo t 
+24,963,Petco,27,emdccvzoulucvnw,pavbqywhtswhtwh,ieshagbnpj,CA,16407,County49,32994,Pxext cxo 
+25,482,Best Buy,30,aoktscumidcpnid,nbofbychtzltgab,rbkmwuyual,PA,71345,County78,11867,Best Buy80
+26,597,CVS,46,xuoegkjsfkxpehj,dmxqfhuzcpwkqww,qqxucvvwyw,IL,73603,County37,39378,C V Sx
+27,187,CVS,22,jrmrdzynyecffnv,jvahtwrvrgdkqwz,kcegipkixf,TX,74567,County139,25183,ccCVS
+28,779,Trader Joes,44,wvxipcbxchxoafy,llcxowmdgdustzo,mysgmhwtvm,CA,38117,County84,85760,T rxadexr xJ o exs 
+29,366,Trader Joes,10,bwnquzbexbnicxk,iyaykuxggmhfnsm,otubaafmvc,IL,70557,County113,40513,TaaRaaaaaDaaeaaraa aaJaaOaaeaas
+30,589,Whole Foods,16,dgblialrpowpjgs,xvhcefzayybdpem,drhlfqkuzc,IL,09321,County73,39041,Whole Foodsbn
+31,403,Best Buy,54,vhybzxockvvllnb,bdrmeqkrnhdhtpf,fnyhxjenoy,TX,44353,County62,36526,BaaeaaSaataa aabaaUaay
+32,985,Best Buy,61,axyevwolznnmzdo,dxxbjkjohkngryy,lxdqnursjl,FL,17959,County16,30913,Best Buy38
+33,304,Home Depot,71,biwqukaeuviaoqt,bkxtnrbfwsfqcur,vyqigvsvss,PA,37526,County6,29513,Hxom ex Dep oxt 
+34,569,Trader Joes,40,nbfdtiqcyrraude,hsneuwlfvxfnqyp,cqhaskoxus,CA,78185,County35,94681,Txr axderx xJ o esx
+35,273,Best Buy,16,iucinnkxawfuwqa,jzexbpyosrvqmvz,jwdzhhnmlr,PA,98196,County108,75773,Best Buyamw
+36,359,Walmart,54,modazrcxjcypumv,wkwwdauatnyzhkg,tisunavjtr,PA,78510,County8,83542,Walmartztxh
+37,916,Target,65,icdzisykofapaxl,xynmhciaoxvmcjo,vawmobrjhh,TX,48705,County84,28303,Target61
+38,410,Walmart,52,hefbcqpkbkdjgag,ljtdwqmkhhxspic,raoboukoqg,PA,10353,County17,87098,Walmartheiu
+39,797,CVS,1,kxvtltcombetemw,cprjesqcaobroaq,pxuhdaqpso,PA,63775,County19,97989,ccCVS
+40,875,Walgreens,66,olmjzdkblgzumng,rkskmsevodmvodo,ribtmmbnud,TX,79174,County102,10176,jjWalgreens
+41,587,Walmart,94,okpfaaokarlgxyv,ffltrmymgndqiqx,kbsimjfapv,PA,12391,County2,10835,zzWalmart
+42,890,Petco,4,iiceqjyvssfemen,edwfdzfqyyihmgq,ompnenzqbx,TX,74881,County117,11128,Petcolqz
+43,948,Whole Foods,89,xzqywxwehjyqdbc,deqfiinehnecxht,fzbughhlio,OH,25383,County2,92048,Whole Foods78
+44,721,Walmart,7,jgyskfqkllriysp,qaryzsuftlypdoj,qazceunfpw,OH,47652,County83,85101,Wxaxl mxar tx
+45,172,Home Depot,98,upihhgbrqjscvmi,ogvrjjvjinuocoa,kdrcugvwrz,IL,85347,County149,38776,Home Depots
+46,564,Walgreens,7,xmcwrhjrqiwmqih,dcghsggkgigfhvb,syoawjdyxc,OH,20393,County74,87448,Walgreensnt
+47,793,Best Buy,31,fpjfoyvzpqxewiv,hmuotvnjthixxlg,qpncajzjui,IL,56451,County140,16656,BaaeaaSaaTaa aaBaaUaay
+48,354,Whole Foods,23,ofxfmriodecwbjn,vbbcaaioymtelaf,stqsnooeqc,PA,52015,County90,36245,waahaaoaaLaaeaa aaFaaOaaOaadaaS
+49,740,Petco,34,nwflmhctvmuzjgg,xyxsbmkztthjojm,hmkylwwjtd,FL,65185,County110,97079,wwPetco
+50,460,Costco,48,wdvwphosprwishx,rxaitbtzxabajjg,dfhfemejgk,FL,83298,County143,13264,C o sxt cox
+51,827,Trader Joes,90,sipfxnmzaxzggsg,fipjilptprusqvm,bztvqfesfo,TX,55765,County128,83963,TaaraaaaaDaaEaaraa aaJaaoaaeaaS
+52,748,Trader Joes,73,zzfcehefdcchgzg,dvislymeaxkxrey,qpgqjstoyx,IL,51474,County13,48676,Trader Joes86
+53,661,Trader Joes,85,ywgufygmjfyndll,qgdtkhxrzyshtlw,awotuejjvm,IL,62818,County114,15810,kkTrader Joes
+54,761,Whole Foods,14,peabhftmmslxgmy,qqaosukazrrxzvo,cdplhyhmod,IL,10052,County110,20626,Whole Foods41
+55,745,CVS,84,wprfipkovoagvpf,ijlwnqeeygyqhqq,lpjzyxmaqp,PA,93204,County40,36571,CVS47
+56,194,CVS,76,zwmkormgtslpgkh,urkvrxomgyczvba,cpbtpmmyfl,NY,94486,County48,31948,CxV S 
+57,171,Home Depot,94,sxltqvpdxabeeby,emtilcaiwvfhqan,cfnsukjvkr,NY,98287,County8,71894,Home Depotzzl
+58,125,CVS,21,fzltinlbeasptfp,bhakuxckysdchtr,mujfcbfmls,PA,02154,County26,98751,CVSpae
+59,280,Whole Foods,59,gfpjubecaypfetw,jcsxkkauehfdsqq,kvhbgaindh,OH,46753,County125,90306,zzWhole Foods
+60,784,CVS,16,qgbdvguubofssfn,pmtsprzzzmrzxhn,nurithwduh,CA,71958,County51,57972,yyCVS
+61,568,Target,62,irpyzxdfwqweuon,gwrqjoswotzqvwf,ticqkurdhm,OH,36075,County90,78653,Targetdxqw
+62,581,Costco,17,emhbmgfgqjxnbfn,zsociscsznrgiad,vnfjwlmxvp,NY,78926,County59,22033,zzCostco
+63,633,Target,64,kcuxocnbfxeprkz,wpxwlahfxvyayvg,hwehpcnhif,IL,59266,County131,19930,T arxgxext 
+64,540,Whole Foods,38,mbwvsruodqppdbi,sgsikqwpyxnxucl,exuvidqrpc,FL,85639,County24,25415,W h ol e Fxoxod s
+65,137,Walgreens,39,ntzkbqdbetfbekn,ajlavvesaldjiqs,kfvovilerw,CA,88877,County134,12611,Walgreensl
+66,888,Best Buy,74,vmmjkiijrxqiqct,bhohtwhfhpcefha,sllhdfsgdv,FL,33548,County70,39944,B es t   Bxu y 
+67,518,Home Depot,56,kvpmyzpsrwneomy,qlbgtdzcmtotfex,mwdnysonet,FL,52793,County30,97648,zzHome Depot
+68,531,Best Buy,68,gkfshnkswotibbu,xnzvlxjbpwsxasa,ahmhohwivg,TX,29272,County50,60386,B exsxt   B uyx
+69,774,Walgreens,4,zljcgiroubtcixm,kwuulzmuynontry,ajmuxjmjli,FL,72621,County45,31995,W a lgre e n sx
+70,572,Walgreens,42,uyxizpnsjrdxhfc,uzuzzyafilrtyup,lfrjiyfvro,PA,52239,County122,19306,Walgreenskem
+71,989,Walmart,69,urgufvwnwvjpxat,vakfadodbwoktvo,pbrfppkqih,CA,22040,County125,46703,waaAaaLaamaaaaaraaT
+72,943,Target,92,zueajtvetmsiraj,paprgzkmbjdbgfn,uiwtiqblev,TX,46835,County95,42881,Target10
+73,318,Target,11,fowqxtfcxxkwsbn,akvhigmhtfcxihh,dmwgdanksy,TX,31562,County11,57214,ccTarget
+74,148,Trader Joes,29,nihyzkmqblcfcxs,osnogvmycnyartl,ubcnvgyozt,OH,27052,County136,64807,Trader Joesexbh
+75,306,Whole Foods,95,jvxwpgliabntzzf,vidqvkgrixhdjxj,yehmuqwtbq,TX,06577,County132,71607,ooWhole Foods
+76,126,Trader Joes,24,uaptwxhivdzkokx,waagfxhgiaqcazs,tfbwyqvafg,NY,32383,County94,31874,Trader Joesk
+77,828,Target,95,vjguclehsfhhptt,osclkawjswjdvcw,pmpcjviehc,CA,62677,County99,19478,Target83
+78,842,Costco,94,cwltjigrylyyarx,ndhrskifdjnflsp,mrphpyejdl,IL,05318,County84,48055,Cxosxtxc o 
+79,408,Target,79,drgnjxkcclxuvim,joxwuavgkrzpvms,zehffrntcb,IL,79644,County133,19228,Targetl
+80,827,Walmart,15,nohqxvdxflfprqd,jfoljetjpzjlkug,aomxodmpdi,CA,62688,County92,14258,Walmart68
+81,422,Target,2,hobgdejheynntoa,mexiiahrlpmrspk,vzxnznhwsx,PA,25079,County82,24949,T a rgxe t
+82,685,Whole Foods,71,eqstpmnhprradfq,bhryxrxrlsiixdg,jcbnfjqlfo,IL,69493,County54,56036,hhWhole Foods
+83,642,Target,79,utdlvhnxjualrlv,qjqdwvpvgqpaqhv,uorotiylwh,TX,24662,County123,98595,Targetq
+84,821,Costco,27,fjldinlrfixayjq,uyrnfsoiylwtejc,jjfkurjlgc,PA,34933,County134,90268,Costcopo
+85,693,Trader Joes,29,khjysmdavwxuhcr,jyahkokeosgqeml,pnzltnfgxm,FL,14850,County128,37571,TaaraaaaadaaeaaRaa aaJaaOaaeaaS
+86,812,Walgreens,44,zlwvamfyzksvcuv,sfgrpwiobnnolau,cpkqwhqlun,OH,49161,County66,15239,eeWalgreens
+87,866,Petco,44,ioxvstohwxpuqny,pqcjfwlkybumdez,hsjmyznpfg,IL,07743,County69,74037,Petco85
+88,601,Costco,7,erjejavdwvmefdc,ebxyizhtnaddvei,hbciaobyoc,PA,21120,County62,23192,Costcoxsfq
+89,484,Whole Foods,39,thmsgbtuuyplnlv,mbfiaqkuyxaphhn,pgmvtohiwi,FL,33688,County146,69444,Wxhxolex  Fxoxodxs
+90,949,Home Depot,67,ehgqgesuotoiqvy,pksbdetefzxzkys,rcfhobcyiu,PA,82054,County4,98057,haaoaamaaEaa aadaaEaaPaaOaaT
+91,183,Best Buy,63,gkqkkxtgaohzlde,vobejaafsvidfvr,axlndjazhy,NY,37735,County83,73391,Best Buysrb
+92,378,Costco,95,norgyspvtmdhabs,kqywzltdltoknmf,sdcsimsmgq,TX,08547,County110,84351,ppCostco
+93,866,Whole Foods,34,evmqetfmbzgjzkc,wcbyfmcjzmsbhxh,awmjihozcr,IL,66109,County22,77583,W hol e  F oxodxs 
+94,194,Whole Foods,47,ccqqcrgpwqlptvq,tarsqmvbtmlvouy,pxbiujqqnd,OH,27284,County12,51488,ccWhole Foods
+95,130,Walmart,9,pjvejiblexgrzjd,zeufmyedtwjphau,npypoqfuef,TX,42980,County139,41557,ddWalmart
+96,517,Best Buy,5,nbvdjjxkcrqkqci,mzzqxvmfzulsgdt,wrogbmfjml,CA,91877,County12,17752,BaaeaasaaTaa aaBaaUaaY
+97,210,Walmart,81,rfaafwhfdujplir,emckvoqacguzahf,ynnrpjgyix,TX,32835,County13,85236,Wxaxlxm a rxt 
+98,797,CVS,71,yzqyrwgmxryzzjf,nxpctzlgyotmpdz,rojyybuquy,FL,89134,County34,18043,CVSdsiv
+99,642,CVS,34,sfinyxpwjtiwuno,fhsdjbsgbcpnjeg,twonietcqx,CA,83765,County57,18787,llCVS
+100,428,Whole Foods,39,lpzlcdvqlrtsolu,agxbdzvdebkpvrf,kycjgdlyjo,OH,52494,County95,88704,zzWhole Foods
+101,696,CVS,37,kxcsjmmlxilznnd,xxaxoxlecjpkklx,ddimroteec,NY,07459,County135,67970,CVSxrv
+102,115,Walgreens,99,ccoqwnrzmkjzmwr,adocoxzujktthey,qluzxpnryc,FL,00772,County96,93592,waaaaaLaaGaaRaaeaaEaanaas
+103,285,Walgreens,9,iumbbamzddcyobk,rqrmjqbsnqiieuj,ugltymjdyl,FL,98914,County120,96205,W a lg re ens 
+104,228,Walmart,38,jazgskltmprgwgc,izhqlfpgxycavmp,pijvurhfyu,IL,92428,County120,85592,W a l mart 
+105,350,Whole Foods,80,gxbtivvqiyiqtqp,luogrbejbnosqfm,wtctxebwif,IL,29033,County23,11015,Whole Foodszf
+106,494,Whole Foods,43,wvdprfhckybzicv,xcbbhmhowzbdmly,olntjvbrio,NY,65877,County114,40787,Wh olxex Foxoxd s 
+107,796,Trader Joes,4,ubebkkwcklrloii,yzrpfxpwenxmdor,ggsrfkamak,OH,72456,County78,17286,Txra d exr  xJoxexs 
+108,723,CVS,5,jdiqiememjdfzho,nvoiuppvuhextjb,msncmiwdav,CA,44885,County66,39220,aaCVS
+109,453,Petco,84,qkxiqsgcgemxcwj,bshtlztvzlzqpst,swopxfhlnl,FL,01132,County14,79220,Petco93
+110,439,Target,35,xevmikfmygxsjzp,guajrqmchfjafkp,hfonxpirku,CA,11995,County38,97721,aaTarget
+111,837,Costco,8,pajnfkgtfebsjpx,ejbvcwpwouowdim,fblsunbpxm,NY,91130,County51,52851,CaaoaaSaataacaaO
+112,324,Trader Joes,22,fzqsfpfjflxwdsp,eegegjsfruhmknu,wrzeesgznj,PA,89740,County78,22724,ddTrader Joes
+113,994,Best Buy,46,hmivhjzmrpnydgg,fgdmqkdwkylfluy,epolyycvto,CA,92856,County71,32482,baaEaasaataa aabaauaaY
+114,678,CVS,50,knilbplabjtkbnj,icynkprktbkibnu,pnjiqmoejj,OH,58890,County125,63846,CaaVaas
+115,113,CVS,9,zycrtspdwjviqyk,pwzfgnzixqomrpj,inlqobyeuk,CA,98060,County80,98811,CaaVaas
+116,764,Walgreens,1,moyjajnyxbjvknw,ueignxwnvwvldzf,tpfytbztes,IL,14205,County14,94890,Walgreens30
+117,972,Walmart,99,pvxevcsokaihkar,szqlsfcrflhfsik,cwaxsqxybz,TX,62239,County20,86123,WaaAaalaamaaAaaraat
+118,793,Trader Joes,67,erqfbmaisjslsxi,dzskyrygkdiwnux,aonjdljpzs,OH,32143,County118,77448,Trader Joes95
+119,917,Walgreens,68,giujivwlgcgmwwe,arthlzseywxskjy,jzeepivgpw,TX,47570,County20,66281,waaAaalaaGaaRaaEaaeaaNaaS
+120,998,Walgreens,34,akaniwndwnabgej,xhvmmgdyrhejacn,mxanmaqpgm,FL,57406,County86,98312,nnWalgreens
+121,864,Costco,11,gzdcmtvykztdauq,jfriilgkwdjnjnp,mhltavaryq,FL,77088,County32,50828,caaoaaSaataacaao
+122,499,Whole Foods,2,evziwcrvagnfdet,siqxzmcsrrcpkik,kcgtkadwau,IL,03752,County104,36805,Whole Foods49
+123,923,Walmart,92,zhawmftzoaynwbl,dcxdzkrgurnkapl,rleesmgmja,PA,58844,County112,45101,nnWalmart
+124,637,CVS,71,cbybhjweadxsvvp,ykxigzxzwkckibl,kuizdsxfzi,CA,05765,County112,91664,CVSkg
+125,699,CVS,37,rrnybkkffrmbezp,zygmahwnlhomgdh,ajbrofhfmc,TX,65294,County97,84458,caavaaS
+126,685,Petco,18,afupdplewhhzmpu,hclqcqkeuxfyxvy,dralnsmjtb,FL,19710,County103,78989,Petcoqk
+127,610,Whole Foods,94,qhxyvnuiiidrbac,zthhifuewwccasd,rzukiougzn,NY,92118,County100,34266,waaHaaoaaLaaeaa aafaaoaaoaaDaaS
+128,385,Walgreens,11,pwwhwkejosrwsrl,owxojckicfhqnbl,uymmsacijm,FL,78045,County94,60096,waaAaalaagaaRaaeaaEaaNaas
+129,123,CVS,66,qavqldumhlmfkeu,bkrplntymnjstup,tutzzcmksu,FL,61166,County120,38335,caaVaaS
+130,468,Home Depot,21,terrmglmnjlpegk,mkdmgtdoabzfxzh,vnhygvpjih,TX,87153,County96,62481,haaoaaMaaEaa aadaaEaaPaaOaat
+131,213,Target,89,jwxyrctjikfnsrt,usdrqtevbsozxtz,pkxndglypw,IL,49695,County16,94535,Tar ge t
+132,367,CVS,81,susrxkepefwnhhu,scjmcrnscnbnbqo,vozvdkatjz,IL,88534,County104,97067,ssCVS
+133,678,Target,47,xnxzsrzysshchlr,wjtrgsycbhoglyk,quhxpeatck,IL,60063,County114,56639,taaAaaraaGaaeaaT
+134,422,Costco,59,axftaczmmabwqhh,vntbttzjhgiofzo,gthtvnxufx,IL,89590,County64,66122,Costcop
+135,653,Walgreens,89,hxapqitllsvphiw,ajuopdymsvojxtb,aipdrwnuoe,OH,89542,County148,17088,Walgreensi
+136,664,Walmart,27,tfwqrngmwiubdgj,ultohjrtpfbtvat,kejfrpmain,OH,88419,County125,40698,waaAaalaaMaaaaaraaT
+137,369,Walgreens,100,fznvthkhmmjmzap,gtucaceoewonvbs,ozybhwyfeo,IL,33058,County73,23255,Walxgr e en s
+138,794,Walgreens,56,oxcwqlptqtqpcrn,hdrnhhrbftvnaky,wayaaguyye,CA,16173,County78,82713,W al grxeen s
+139,137,Costco,23,fhldixpkatyatua,bgagfoeplsrybkc,czrpuqeibp,CA,57359,County43,31362,Costco24
+140,497,Costco,4,mvxfmjxuwjbskwl,xaoxdbbsnwhntnb,tpwdnuwmqg,NY,29299,County50,15757,Costcoyykz
+141,281,Best Buy,98,pfvmjdhlffavujf,eqlymxwniauuxox,iqddkcvdqy,TX,09589,County139,49776,Best Buywhua
+142,438,Petco,82,bkkjcjbwlwxiycy,nfwfijjdapfzkaq,dxtbahawtr,NY,05072,County77,74765,Petcouez
+143,637,Costco,3,nmsbepxtnpdofzl,sqrhiwncidowpri,jiieiywuwm,TX,96417,County63,75780,Costcomej
+144,567,Walgreens,99,grfxbhdehygegef,gqbrgfizbbtammc,mirgoznbbo,OH,61182,County85,50691,waaaaalaaGaaRaaeaaEaaNaas
+145,165,Home Depot,17,nkndxzrgyiloqum,frtgmnlqkusmirp,hemwbaxpyo,TX,09922,County48,63640,Home Depotkmfj
+146,913,Walmart,16,krqjkixnuofpfns,noaojpyzaoxcmmo,izqokvikuv,TX,21058,County78,41438,Walmartll
+147,209,Best Buy,47,uijndyedqxzwuir,lgocgozrhybauce,yuehmklikz,TX,09147,County147,80494,Be s t  xBxuy 
+148,102,Walgreens,80,qaiaeqmcpcwwqsf,ijmiaxaqmrpahox,suftzirozy,CA,55369,County22,12851,llWalgreens
+149,317,Trader Joes,76,xcjsbgjewhsznji,anlsugluhssjpxw,hwoodwrxln,CA,07727,County37,49298,Trader Joes37
+150,696,Target,62,kluutsmzybvcren,owlhqhkciisrslh,ztfpumuepe,FL,24448,County150,88979,Targetwaql
+151,456,Best Buy,38,zxrqbklshlcmrjm,nmrfqsarfwakfts,eihwaqeata,PA,01850,County29,63333,jjBest Buy
+152,341,Home Depot,100,qyouwqiegdidazn,rzyedltwjcjsqti,wvenbxuehm,PA,29947,County125,33029,HaaOaamaaEaa aadaaEaaPaaoaat
+153,513,Costco,12,ygfuoyuuyqcxcxz,mwvwnpdratlfqgq,dzongcznol,IL,11347,County54,23627,nnCostco
+154,450,Walgreens,58,qndhavevcfpwjtj,hcvmvvnuzipxwgm,qsrbxefbzu,PA,88663,County110,68927,Wxa lxg rxexe ns 
+155,480,Home Depot,62,qhtpnmlunknmfnt,imluuhkasdlirsy,shtpvztpih,FL,28081,County7,22638,Home Depotr
+156,583,Target,26,awesippulhfuavn,npsohuwqzyrqonv,cewnxxsxik,NY,92212,County16,16776,Target26
+157,285,Home Depot,24,uthavbkugmmduub,ftfenoezdxniivo,xfxnfhkyxd,FL,19786,County135,42226,H o mex  D ep oxt
+158,149,Trader Joes,69,ogcrzctxiapfkqt,fozhkanoikrqdvg,rehwftfcac,OH,65877,County9,81695,Trader Joes14
+159,631,Costco,58,sbdqrlasbuoqxtw,ciwhjmhtgbzvspt,haojtbcrlt,PA,55702,County89,43306,Costcol
+160,984,Target,22,eddrvgqgrheskos,bqsjahvzhdldoiz,kpxnserqtc,FL,31959,County62,23560,taaaaaraagaaeaat
+161,386,CVS,19,zazdyfdtptxskjq,fbhpizkwnrmcrqo,slhvauorkq,NY,80434,County61,27286,Caavaas
+162,954,Costco,34,hsptymfxmhfnmvg,iemqddjrszhwwjw,ibeapbexbn,TX,53912,County6,21358,caaOaaSaaTaaCaao
+163,654,Whole Foods,7,telyuknauhsrjxk,swojjosrtqtcqmm,pxluqqoggc,NY,17429,County139,14228,kkWhole Foods
+164,614,Costco,17,yrvamjkkjwulwwv,hfnmapqnshnilhp,aogdalcwyh,CA,07509,County94,66859,Cxoxs tcox
+165,848,Trader Joes,85,otalkmpilfsfubu,okrmpyjlvzbvkgx,rfbnpasfxr,TX,10267,County27,92413,Trader Joesquf
+166,647,Target,10,necvutkdkxupxqs,yidvjvcvoscrpby,szhmfcrlop,TX,22323,County1,17952,ddTarget
+167,844,Walmart,43,nepyklhqcrmxmxz,fswdekdjjhjdvgl,ydtkpesbhv,PA,28119,County37,85307,hhWalmart
+168,556,Walmart,13,iymzxqhgapcgfnc,bpigvqcejhohujn,qhximkjgts,OH,01578,County125,71738,Walmart29
+169,971,Petco,97,hgmkxryqwnakurv,fcxflkzetyghbbx,luqzrmrftc,FL,46586,County66,31051,Petcoqx
+170,985,Petco,86,zanewwruzqalgxj,trmuxaeivrocnjm,rluytmhije,CA,90140,County76,33306,P etxco 
+171,210,Trader Joes,26,xmnjztwggbkqwep,drhfhangewcfssx,jvyktabvdh,IL,77357,County64,29364,kkTrader Joes
+172,482,Whole Foods,87,yalqhpoaczyqmnh,bzqwmdbaknxhcks,kbrcdkkenp,IL,52278,County20,54967,Whole Foodskzg
+173,417,Petco,92,bzmwxfofbizxlwk,lklfjpvpzsaqvgg,xaylnqxqkk,PA,39795,County6,97801,ggPetco
+174,901,Walmart,58,fpqrdbkdtruvdfy,ntzjahccilfywpx,ghqszlmjox,PA,02666,County118,10272,Walmart74
+175,625,Walgreens,74,eummqskwmquslhq,ualybzihsnrzgng,hmmykzmxfv,FL,21774,County111,28446,waaAaaLaaGaaRaaeaaeaaNaas
+176,681,Trader Joes,62,euwejxnomhbdeli,drrjiesykxqmkee,bqxmokaems,FL,29424,County39,66182,ooTrader Joes
+177,361,Walgreens,75,xkxzypprywbbrik,snbqtodpsdizdqu,qsvttkjtrv,OH,43242,County8,20176,Walgreens76
+178,456,Petco,96,pppmnlrtajiqneh,jbtckbnvbwlxcex,mlwzftahpk,OH,16880,County18,77295,Pxe t co
+179,272,CVS,58,rsaubanyziiiprk,cgbuosrlnicsblk,tbmjkcdpjh,FL,49986,County48,70301,CVSriht
+180,283,Best Buy,13,nmzfgahqbkusshh,djlglqimgqtgspf,zyfdawxvrq,IL,68884,County79,26018,Be sxt   Bxuy
+181,802,Whole Foods,4,qrxbuceltmvyigk,vpvqkfprlwnufba,cktxipkopb,OH,20085,County17,69350,Whole Foodskbb
+182,396,Walgreens,3,rpnqxvllqkbhzsk,fgbdryqmyxzezsa,qkjxpgpuet,PA,55176,County97,28617,zzWalgreens
+183,472,CVS,3,moslpirpqsdxrrz,nnnmclxljtujzhk,nwwglsagmj,TX,81777,County7,48296,caavaaS
+184,705,Best Buy,87,meabjcxzccuuhaq,euamlzrtxpylyix,txmyuquhbh,NY,82749,County133,73962,Best Buy21
+185,972,Home Depot,22,vrhtxpcabllkpkt,jucrnvcjrduyuxy,cdgjiagizw,TX,58355,County93,34931,Home Depotndp
+186,495,Costco,64,xfldxghpuqmzezq,iprelgqiqagwkzk,dympnenxgr,CA,15148,County97,56548,Costcodc
+187,953,Petco,36,emgimmcgushszmv,tohjegbaxbstcdw,pzxulcxtvo,TX,98160,County62,62060,paaEaaTaacaao
+188,592,Target,69,lpxfijevtzngfvq,kfcchxpdodyrout,ubbomreqyr,FL,83198,County18,66641,TaaAaaRaaGaaeaaT
+189,332,Walgreens,23,hrbbhixqohjvdfg,zgkrrcdepymomcq,rjskmwbehf,TX,99421,County93,65828,Walgreensf
+190,932,Best Buy,83,fqaaksjbvoafknl,lztpzrsasylnwvj,ioysdbbsdu,TX,15629,County84,15698,baaeaaSaaTaa aabaauaaY
+191,176,CVS,41,ytzywswkbxvafde,aabwtjwpyxzmaga,ikqbkouwaw,TX,63727,County92,23410,ccCVS
+192,933,Best Buy,9,lakpaathfhhnlfw,cyzhmknulvdomkp,dxaftevsbt,FL,79036,County92,60686,Best Buy36
+193,872,Petco,91,ecgppqukahrtndz,shaldqtlwtnugdw,vjbibaviec,FL,51386,County140,68175,P extc o 
+194,515,Whole Foods,63,txxjgtfnsqclstw,uaatkraeseatdki,dfyvxzoyet,PA,27486,County127,43812,Whole Foodsn
+195,475,Home Depot,81,hgtdpztpgvictbu,uvouyfptpmmgeuv,nzxwtvmqcl,PA,11496,County38,77307,Home Depot66
+196,413,Home Depot,46,grgctoloewtvovv,qzgtehmedrhdkws,ccbvmmwspa,CA,45054,County38,43306,Home Depothit
+197,377,Walgreens,55,jdmqqzywueguvva,ashvaspsdubpwgv,fsfynoielp,FL,20772,County75,54382,Walgreensd
+198,748,Target,22,wbvyfjhewmtbmyk,qdqkwubcajajmfd,hitzqmygdz,OH,69664,County123,44960,taaaaaRaaGaaeaaT
+199,725,Whole Foods,95,cxpkrcbnyalcsxc,weqwwsevhfvcewm,aqupfxuslt,IL,81963,County136,63609,ffWhole Foods
+200,832,Home Depot,77,jrpmdmxekejwtxt,qasjguoaxjyrgwo,iyfhxoqnwt,CA,51994,County3,84086,Home Depot31
